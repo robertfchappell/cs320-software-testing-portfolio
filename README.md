@@ -1,4 +1,4 @@
-Thought
+Reflection
 
  I write clear specifications and test each rule with unit tests to make sure my code and applications work and are safe.  JUnit lets me check every input condition and make sure that the code always works the same way.  Validating inputs, properly handling faulty data, and ensuring sure nothing unexpected gets through are the major ways to keep things safe and stable.
 
